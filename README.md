@@ -34,6 +34,8 @@ need to revert that section of the font file to match your source code.
 
 * Scott L Baker
 
+* If you like my designs and would like to support my work: https://buymeacoffee.com/scottlbaker
+
 
 ## License
 
